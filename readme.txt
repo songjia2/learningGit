@@ -1,2 +1,2 @@
-Git is a new distributed version control system.
-Git is free software and l love git so.
+i love git 
+so it is a good repository
