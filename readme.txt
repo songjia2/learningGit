@@ -1,2 +1,3 @@
 i love git 
-so it is a good repository
+so it is a good repositorsoy
+creating a new branch is quick
